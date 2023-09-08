@@ -25,13 +25,13 @@ The Code Language Converter is a web service that allows you to seamlessly conve
 
 ## Demo
 
-![Demo Frontend Deploy](https://gai201-converter-app.vercel.app/)
+Demo Frontend Deploy - https://gai201-converter-app.vercel.app/
 
 [Watch Demo Video]()
 
 ## Backend Deploy
 
-![Backend Deploy](https://gai-201-server-language-converter.vercel.app/)
+Backend Deploy - https://gai-201-server-language-converter.vercel.app/
 ## Getting Started
 
 To get started with the Code Language Converter, follow these steps:
@@ -45,8 +45,8 @@ To get started with the Code Language Converter, follow these steps:
 
 1. Clone the repository:
 
- ![Frontend](https://github.com/Summi51/GAI201-Language-Converter) 
+ Frontend - https://github.com/Summi51/GAI201-Language-Converter
    
- ![Backend](https://github.com/Summi51/GAI201-Server-Language-Converter) 
+ Backend - https://github.com/Summi51/GAI201-Server-Language-Converter
  
  
